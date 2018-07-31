@@ -16,3 +16,6 @@
 </div>
 
 LBRY Donation adress: bXUtBbTotxswjphFVhQF7hFjXVTexWe3QV
+
+Supportes list:
+
