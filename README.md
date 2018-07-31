@@ -11,5 +11,6 @@
 	</div>
 	<div style="clear: both;"></div>
 	<div style="margin: 2px 0 0 0; text-align: right;">
+		<a href="http://www.dollartimes.com" style="font-size: 10px;text-decoration:none;color:#bbb">get a progress bar at dollartimes.com</a>
 	</div>
 </div>
