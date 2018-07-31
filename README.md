@@ -11,6 +11,6 @@
 	</div>
 	<div style="clear: both;"></div>
 	<div style="margin: 2px 0 0 0; text-align: right;">
-		<a href="http://www.dollartimes.com/on-your-site/progress-bar.htm?name=LBRY%20need%20to%20buy%20Alexa&start=0&goal=607&current=7&color=4a86e8&unit=LBC&unitposition=right&size=300" style="font-size: 10px;text-decoration:none;color:#bbb">get a progress bar at dollartimes.com</a>
+		
 	</div>
 </div>
