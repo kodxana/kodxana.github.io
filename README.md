@@ -11,6 +11,5 @@
 	</div>
 	<div style="clear: both;"></div>
 	<div style="margin: 2px 0 0 0; text-align: right;">
-		
 	</div>
 </div>
