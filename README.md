@@ -14,3 +14,5 @@
 		<a href="http://www.dollartimes.com" style="font-size: 10px;text-decoration:none;color:#bbb">get a progress bar at dollartimes.com</a>
 	</div>
 </div>
+
+LBRY Donation adress: bXUtBbTotxswjphFVhQF7hFjXVTexWe3QV
