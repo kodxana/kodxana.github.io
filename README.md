@@ -17,6 +17,7 @@
 LBRY Donation adress: bXUtBbTotxswjphFVhQF7hFjXVTexWe3QV
 
 Supportes list:
+
 Atfamos: 30 LBC
 
 Electron: 20 LBC
