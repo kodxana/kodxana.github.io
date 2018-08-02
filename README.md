@@ -28,6 +28,6 @@ Dusan: 20 LBC
 
 jiggytom: 300 LBC
 
-Unknown Donator: 100 LBC
+rouse: 100 LBC
 
 LeRatton: 100 LBC
